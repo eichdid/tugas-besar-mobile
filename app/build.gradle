@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.movieapp'
+    namespace 'com.example.tugas_mobile'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.movieapp"
+        applicationId "com.example.tugas_mobile"
         minSdk 21
         targetSdk 33
         versionCode 1

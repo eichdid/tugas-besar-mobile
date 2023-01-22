@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_movie"
-        android:name="com.example.movieapp.ui.movie.MovieFragment"
+        android:name="com.example.tugas_mobile.ui.movie.MovieFragment"
         android:label="@string/app_title_movie"
         tools:layout="@layout/fragment_movie" />
 
     <fragment
         android:id="@+id/navigation_tvshow"
-        android:name="com.example.movieapp.ui.tvshow.TvShowFragment"
+        android:name="com.example.tugas_mobile.ui.tvshow.TvShowFragment"
         android:label="@string/app_title_tvshow"
         tools:layout="@layout/fragment_tv_show" />
 
     <fragment
         android:id="@+id/navigation_profile"
-        android:name="com.example.movieapp.ui.profile.ProfileFragment"
+        android:name="com.example.tugas_mobile.ui.profile.ProfileFragment"
         android:label="@string/profile"
         tools:layout="@layout/fragment_profile" />
 
